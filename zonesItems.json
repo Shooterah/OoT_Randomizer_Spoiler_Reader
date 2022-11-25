@@ -1,0 +1,3436 @@
+{
+    "zones": [
+        {
+            "Kak": [
+                {
+                    "nbItems": 24787
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 2093
+                        },
+                        {
+                            "Boomerang": 791
+                        },
+                        {
+                            "Bottle": 166
+                        },
+                        {
+                            "Bottle with Big Poe": 178
+                        },
+                        {
+                            "Bottle with Blue Fire": 198
+                        },
+                        {
+                            "Bottle with Blue Potion": 190
+                        },
+                        {
+                            "Bottle with Bugs": 164
+                        },
+                        {
+                            "Bottle with Fairy": 186
+                        },
+                        {
+                            "Bottle with Fish": 194
+                        },
+                        {
+                            "Bottle with Green Potion": 175
+                        },
+                        {
+                            "Bottle with Milk": 161
+                        },
+                        {
+                            "Bottle with Poe": 183
+                        },
+                        {
+                            "Bottle with Red Potion": 177
+                        },
+                        {
+                            "Bow": 2067
+                        },
+                        {
+                            "Claim Check": 185
+                        },
+                        {
+                            "Dins Fire": 848
+                        },
+                        {
+                            "Fire Arrows": 661
+                        },
+                        {
+                            "Goron Tunic": 619
+                        },
+                        {
+                            "Hover Boots": 905
+                        },
+                        {
+                            "Iron Boots": 740
+                        },
+                        {
+                            "Lens of Truth": 729
+                        },
+                        {
+                            "Light Arrows": 647
+                        },
+                        {
+                            "Magic Meter": 1396
+                        },
+                        {
+                            "Megaton Hammer": 895
+                        },
+                        {
+                            "Mirror Shield": 753
+                        },
+                        {
+                            "Progressive Hookshot": 1697
+                        },
+                        {
+                            "Progressive Scale": 1383
+                        },
+                        {
+                            "Progressive Strength Upgrade": 2261
+                        },
+                        {
+                            "Progressive Wallet": 1308
+                        },
+                        {
+                            "Rutos Letter": 857
+                        },
+                        {
+                            "Slingshot": 1980
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Spirit Temple": [
+                {
+                    "nbItems": 23254
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1955
+                        },
+                        {
+                            "Boomerang": 658
+                        },
+                        {
+                            "Bottle": 186
+                        },
+                        {
+                            "Bottle with Big Poe": 184
+                        },
+                        {
+                            "Bottle with Blue Fire": 210
+                        },
+                        {
+                            "Bottle with Blue Potion": 183
+                        },
+                        {
+                            "Bottle with Bugs": 189
+                        },
+                        {
+                            "Bottle with Fairy": 226
+                        },
+                        {
+                            "Bottle with Fish": 202
+                        },
+                        {
+                            "Bottle with Green Potion": 197
+                        },
+                        {
+                            "Bottle with Milk": 187
+                        },
+                        {
+                            "Bottle with Poe": 196
+                        },
+                        {
+                            "Bottle with Red Potion": 202
+                        },
+                        {
+                            "Bow": 2092
+                        },
+                        {
+                            "Claim Check": 178
+                        },
+                        {
+                            "Dins Fire": 716
+                        },
+                        {
+                            "Fire Arrows": 698
+                        },
+                        {
+                            "Goron Tunic": 702
+                        },
+                        {
+                            "Hover Boots": 706
+                        },
+                        {
+                            "Iron Boots": 737
+                        },
+                        {
+                            "Lens of Truth": 557
+                        },
+                        {
+                            "Light Arrows": 723
+                        },
+                        {
+                            "Magic Meter": 1318
+                        },
+                        {
+                            "Megaton Hammer": 707
+                        },
+                        {
+                            "Mirror Shield": 648
+                        },
+                        {
+                            "Progressive Hookshot": 1204
+                        },
+                        {
+                            "Progressive Scale": 1349
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1920
+                        },
+                        {
+                            "Progressive Wallet": 1444
+                        },
+                        {
+                            "Rutos Letter": 626
+                        },
+                        {
+                            "Slingshot": 2154
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Gerudo Training Ground": [
+                {
+                    "nbItems": 22538
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1981
+                        },
+                        {
+                            "Boomerang": 743
+                        },
+                        {
+                            "Bottle": 170
+                        },
+                        {
+                            "Bottle with Big Poe": 179
+                        },
+                        {
+                            "Bottle with Blue Fire": 172
+                        },
+                        {
+                            "Bottle with Blue Potion": 191
+                        },
+                        {
+                            "Bottle with Bugs": 191
+                        },
+                        {
+                            "Bottle with Fairy": 167
+                        },
+                        {
+                            "Bottle with Fish": 163
+                        },
+                        {
+                            "Bottle with Green Potion": 167
+                        },
+                        {
+                            "Bottle with Milk": 186
+                        },
+                        {
+                            "Bottle with Poe": 181
+                        },
+                        {
+                            "Bottle with Red Potion": 175
+                        },
+                        {
+                            "Bow": 1882
+                        },
+                        {
+                            "Claim Check": 161
+                        },
+                        {
+                            "Dins Fire": 680
+                        },
+                        {
+                            "Fire Arrows": 712
+                        },
+                        {
+                            "Goron Tunic": 673
+                        },
+                        {
+                            "Hover Boots": 701
+                        },
+                        {
+                            "Iron Boots": 639
+                        },
+                        {
+                            "Lens of Truth": 694
+                        },
+                        {
+                            "Light Arrows": 681
+                        },
+                        {
+                            "Magic Meter": 1347
+                        },
+                        {
+                            "Megaton Hammer": 694
+                        },
+                        {
+                            "Mirror Shield": 693
+                        },
+                        {
+                            "Progressive Hookshot": 1071
+                        },
+                        {
+                            "Progressive Scale": 1270
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1944
+                        },
+                        {
+                            "Progressive Wallet": 1331
+                        },
+                        {
+                            "Rutos Letter": 709
+                        },
+                        {
+                            "Slingshot": 1990
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Bottom of the Well": [
+                {
+                    "nbItems": 19316
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1694
+                        },
+                        {
+                            "Boomerang": 548
+                        },
+                        {
+                            "Bottle": 159
+                        },
+                        {
+                            "Bottle with Big Poe": 150
+                        },
+                        {
+                            "Bottle with Blue Fire": 166
+                        },
+                        {
+                            "Bottle with Blue Potion": 124
+                        },
+                        {
+                            "Bottle with Bugs": 142
+                        },
+                        {
+                            "Bottle with Fairy": 162
+                        },
+                        {
+                            "Bottle with Fish": 141
+                        },
+                        {
+                            "Bottle with Green Potion": 137
+                        },
+                        {
+                            "Bottle with Milk": 148
+                        },
+                        {
+                            "Bottle with Poe": 153
+                        },
+                        {
+                            "Bottle with Red Potion": 170
+                        },
+                        {
+                            "Bow": 1603
+                        },
+                        {
+                            "Claim Check": 165
+                        },
+                        {
+                            "Dins Fire": 599
+                        },
+                        {
+                            "Fire Arrows": 579
+                        },
+                        {
+                            "Goron Tunic": 562
+                        },
+                        {
+                            "Hover Boots": 589
+                        },
+                        {
+                            "Iron Boots": 568
+                        },
+                        {
+                            "Lens of Truth": 573
+                        },
+                        {
+                            "Light Arrows": 593
+                        },
+                        {
+                            "Magic Meter": 1127
+                        },
+                        {
+                            "Megaton Hammer": 534
+                        },
+                        {
+                            "Mirror Shield": 581
+                        },
+                        {
+                            "Progressive Hookshot": 1150
+                        },
+                        {
+                            "Progressive Scale": 1142
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1756
+                        },
+                        {
+                            "Progressive Wallet": 1126
+                        },
+                        {
+                            "Rutos Letter": 523
+                        },
+                        {
+                            "Slingshot": 1652
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Shadow Temple": [
+                {
+                    "nbItems": 18987
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1704
+                        },
+                        {
+                            "Boomerang": 598
+                        },
+                        {
+                            "Bottle": 160
+                        },
+                        {
+                            "Bottle with Big Poe": 187
+                        },
+                        {
+                            "Bottle with Blue Fire": 174
+                        },
+                        {
+                            "Bottle with Blue Potion": 182
+                        },
+                        {
+                            "Bottle with Bugs": 160
+                        },
+                        {
+                            "Bottle with Fairy": 161
+                        },
+                        {
+                            "Bottle with Fish": 171
+                        },
+                        {
+                            "Bottle with Green Potion": 186
+                        },
+                        {
+                            "Bottle with Milk": 187
+                        },
+                        {
+                            "Bottle with Poe": 165
+                        },
+                        {
+                            "Bottle with Red Potion": 177
+                        },
+                        {
+                            "Bow": 1756
+                        },
+                        {
+                            "Claim Check": 162
+                        },
+                        {
+                            "Dins Fire": 0
+                        },
+                        {
+                            "Fire Arrows": 570
+                        },
+                        {
+                            "Goron Tunic": 598
+                        },
+                        {
+                            "Hover Boots": 70
+                        },
+                        {
+                            "Iron Boots": 618
+                        },
+                        {
+                            "Lens of Truth": 589
+                        },
+                        {
+                            "Light Arrows": 618
+                        },
+                        {
+                            "Magic Meter": 1042
+                        },
+                        {
+                            "Megaton Hammer": 570
+                        },
+                        {
+                            "Mirror Shield": 581
+                        },
+                        {
+                            "Progressive Hookshot": 1038
+                        },
+                        {
+                            "Progressive Scale": 1195
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1793
+                        },
+                        {
+                            "Progressive Wallet": 1221
+                        },
+                        {
+                            "Rutos Letter": 475
+                        },
+                        {
+                            "Slingshot": 1879
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Ganons Castle": [
+                {
+                    "nbItems": 17900
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 2060
+                        },
+                        {
+                            "Boomerang": 172
+                        },
+                        {
+                            "Bottle": 223
+                        },
+                        {
+                            "Bottle with Big Poe": 185
+                        },
+                        {
+                            "Bottle with Blue Fire": 220
+                        },
+                        {
+                            "Bottle with Blue Potion": 200
+                        },
+                        {
+                            "Bottle with Bugs": 184
+                        },
+                        {
+                            "Bottle with Fairy": 192
+                        },
+                        {
+                            "Bottle with Fish": 208
+                        },
+                        {
+                            "Bottle with Green Potion": 212
+                        },
+                        {
+                            "Bottle with Milk": 185
+                        },
+                        {
+                            "Bottle with Poe": 188
+                        },
+                        {
+                            "Bottle with Red Potion": 206
+                        },
+                        {
+                            "Bow": 2161
+                        },
+                        {
+                            "Claim Check": 174
+                        },
+                        {
+                            "Dins Fire": 181
+                        },
+                        {
+                            "Fire Arrows": 701
+                        },
+                        {
+                            "Goron Tunic": 717
+                        },
+                        {
+                            "Hover Boots": 115
+                        },
+                        {
+                            "Iron Boots": 192
+                        },
+                        {
+                            "Lens of Truth": 571
+                        },
+                        {
+                            "Light Arrows": 769
+                        },
+                        {
+                            "Magic Meter": 1300
+                        },
+                        {
+                            "Megaton Hammer": 132
+                        },
+                        {
+                            "Mirror Shield": 200
+                        },
+                        {
+                            "Progressive Hookshot": 243
+                        },
+                        {
+                            "Progressive Scale": 1379
+                        },
+                        {
+                            "Progressive Strength Upgrade": 956
+                        },
+                        {
+                            "Progressive Wallet": 1418
+                        },
+                        {
+                            "Rutos Letter": 120
+                        },
+                        {
+                            "Slingshot": 2136
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Forest Temple": [
+                {
+                    "nbItems": 14648
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1253
+                        },
+                        {
+                            "Boomerang": 468
+                        },
+                        {
+                            "Bottle": 135
+                        },
+                        {
+                            "Bottle with Big Poe": 112
+                        },
+                        {
+                            "Bottle with Blue Fire": 117
+                        },
+                        {
+                            "Bottle with Blue Potion": 135
+                        },
+                        {
+                            "Bottle with Bugs": 115
+                        },
+                        {
+                            "Bottle with Fairy": 115
+                        },
+                        {
+                            "Bottle with Fish": 128
+                        },
+                        {
+                            "Bottle with Green Potion": 86
+                        },
+                        {
+                            "Bottle with Milk": 111
+                        },
+                        {
+                            "Bottle with Poe": 114
+                        },
+                        {
+                            "Bottle with Red Potion": 91
+                        },
+                        {
+                            "Bow": 1212
+                        },
+                        {
+                            "Claim Check": 93
+                        },
+                        {
+                            "Dins Fire": 477
+                        },
+                        {
+                            "Fire Arrows": 435
+                        },
+                        {
+                            "Goron Tunic": 409
+                        },
+                        {
+                            "Hover Boots": 469
+                        },
+                        {
+                            "Iron Boots": 490
+                        },
+                        {
+                            "Lens of Truth": 416
+                        },
+                        {
+                            "Light Arrows": 387
+                        },
+                        {
+                            "Magic Meter": 849
+                        },
+                        {
+                            "Megaton Hammer": 497
+                        },
+                        {
+                            "Mirror Shield": 448
+                        },
+                        {
+                            "Progressive Hookshot": 838
+                        },
+                        {
+                            "Progressive Scale": 811
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1312
+                        },
+                        {
+                            "Progressive Wallet": 840
+                        },
+                        {
+                            "Rutos Letter": 451
+                        },
+                        {
+                            "Slingshot": 1234
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "LW": [
+                {
+                    "nbItems": 13239
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1152
+                        },
+                        {
+                            "Boomerang": 435
+                        },
+                        {
+                            "Bottle": 100
+                        },
+                        {
+                            "Bottle with Big Poe": 109
+                        },
+                        {
+                            "Bottle with Blue Fire": 82
+                        },
+                        {
+                            "Bottle with Blue Potion": 96
+                        },
+                        {
+                            "Bottle with Bugs": 108
+                        },
+                        {
+                            "Bottle with Fairy": 93
+                        },
+                        {
+                            "Bottle with Fish": 84
+                        },
+                        {
+                            "Bottle with Green Potion": 85
+                        },
+                        {
+                            "Bottle with Milk": 89
+                        },
+                        {
+                            "Bottle with Poe": 77
+                        },
+                        {
+                            "Bottle with Red Potion": 88
+                        },
+                        {
+                            "Bow": 1105
+                        },
+                        {
+                            "Claim Check": 83
+                        },
+                        {
+                            "Dins Fire": 417
+                        },
+                        {
+                            "Fire Arrows": 397
+                        },
+                        {
+                            "Goron Tunic": 355
+                        },
+                        {
+                            "Hover Boots": 416
+                        },
+                        {
+                            "Iron Boots": 417
+                        },
+                        {
+                            "Lens of Truth": 411
+                        },
+                        {
+                            "Light Arrows": 324
+                        },
+                        {
+                            "Magic Meter": 765
+                        },
+                        {
+                            "Megaton Hammer": 431
+                        },
+                        {
+                            "Mirror Shield": 408
+                        },
+                        {
+                            "Progressive Hookshot": 910
+                        },
+                        {
+                            "Progressive Scale": 728
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1173
+                        },
+                        {
+                            "Progressive Wallet": 720
+                        },
+                        {
+                            "Rutos Letter": 511
+                        },
+                        {
+                            "Slingshot": 1070
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Dodongos Cavern": [
+                {
+                    "nbItems": 13171
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1081
+                        },
+                        {
+                            "Boomerang": 441
+                        },
+                        {
+                            "Bottle": 99
+                        },
+                        {
+                            "Bottle with Big Poe": 97
+                        },
+                        {
+                            "Bottle with Blue Fire": 108
+                        },
+                        {
+                            "Bottle with Blue Potion": 100
+                        },
+                        {
+                            "Bottle with Bugs": 90
+                        },
+                        {
+                            "Bottle with Fairy": 82
+                        },
+                        {
+                            "Bottle with Fish": 83
+                        },
+                        {
+                            "Bottle with Green Potion": 75
+                        },
+                        {
+                            "Bottle with Milk": 99
+                        },
+                        {
+                            "Bottle with Poe": 93
+                        },
+                        {
+                            "Bottle with Red Potion": 104
+                        },
+                        {
+                            "Bow": 1081
+                        },
+                        {
+                            "Claim Check": 97
+                        },
+                        {
+                            "Dins Fire": 465
+                        },
+                        {
+                            "Fire Arrows": 345
+                        },
+                        {
+                            "Goron Tunic": 361
+                        },
+                        {
+                            "Hover Boots": 441
+                        },
+                        {
+                            "Iron Boots": 402
+                        },
+                        {
+                            "Lens of Truth": 367
+                        },
+                        {
+                            "Light Arrows": 377
+                        },
+                        {
+                            "Magic Meter": 766
+                        },
+                        {
+                            "Megaton Hammer": 403
+                        },
+                        {
+                            "Mirror Shield": 396
+                        },
+                        {
+                            "Progressive Hookshot": 870
+                        },
+                        {
+                            "Progressive Scale": 718
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1199
+                        },
+                        {
+                            "Progressive Wallet": 727
+                        },
+                        {
+                            "Rutos Letter": 491
+                        },
+                        {
+                            "Slingshot": 1113
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Graveyard": [
+                {
+                    "nbItems": 12987
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1123
+                        },
+                        {
+                            "Boomerang": 383
+                        },
+                        {
+                            "Bottle": 85
+                        },
+                        {
+                            "Bottle with Big Poe": 110
+                        },
+                        {
+                            "Bottle with Blue Fire": 114
+                        },
+                        {
+                            "Bottle with Blue Potion": 79
+                        },
+                        {
+                            "Bottle with Bugs": 91
+                        },
+                        {
+                            "Bottle with Fairy": 107
+                        },
+                        {
+                            "Bottle with Fish": 109
+                        },
+                        {
+                            "Bottle with Green Potion": 80
+                        },
+                        {
+                            "Bottle with Milk": 90
+                        },
+                        {
+                            "Bottle with Poe": 97
+                        },
+                        {
+                            "Bottle with Red Potion": 108
+                        },
+                        {
+                            "Bow": 1036
+                        },
+                        {
+                            "Claim Check": 81
+                        },
+                        {
+                            "Dins Fire": 423
+                        },
+                        {
+                            "Fire Arrows": 367
+                        },
+                        {
+                            "Goron Tunic": 368
+                        },
+                        {
+                            "Hover Boots": 437
+                        },
+                        {
+                            "Iron Boots": 420
+                        },
+                        {
+                            "Lens of Truth": 406
+                        },
+                        {
+                            "Light Arrows": 353
+                        },
+                        {
+                            "Magic Meter": 679
+                        },
+                        {
+                            "Megaton Hammer": 439
+                        },
+                        {
+                            "Mirror Shield": 409
+                        },
+                        {
+                            "Progressive Hookshot": 919
+                        },
+                        {
+                            "Progressive Scale": 746
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1155
+                        },
+                        {
+                            "Progressive Wallet": 681
+                        },
+                        {
+                            "Rutos Letter": 456
+                        },
+                        {
+                            "Slingshot": 1036
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "GC": [
+                {
+                    "nbItems": 12896
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1068
+                        },
+                        {
+                            "Boomerang": 401
+                        },
+                        {
+                            "Bottle": 94
+                        },
+                        {
+                            "Bottle with Big Poe": 103
+                        },
+                        {
+                            "Bottle with Blue Fire": 84
+                        },
+                        {
+                            "Bottle with Blue Potion": 95
+                        },
+                        {
+                            "Bottle with Bugs": 84
+                        },
+                        {
+                            "Bottle with Fairy": 106
+                        },
+                        {
+                            "Bottle with Fish": 102
+                        },
+                        {
+                            "Bottle with Green Potion": 92
+                        },
+                        {
+                            "Bottle with Milk": 102
+                        },
+                        {
+                            "Bottle with Poe": 90
+                        },
+                        {
+                            "Bottle with Red Potion": 98
+                        },
+                        {
+                            "Bow": 1102
+                        },
+                        {
+                            "Claim Check": 92
+                        },
+                        {
+                            "Dins Fire": 417
+                        },
+                        {
+                            "Fire Arrows": 380
+                        },
+                        {
+                            "Goron Tunic": 349
+                        },
+                        {
+                            "Hover Boots": 412
+                        },
+                        {
+                            "Iron Boots": 398
+                        },
+                        {
+                            "Lens of Truth": 383
+                        },
+                        {
+                            "Light Arrows": 383
+                        },
+                        {
+                            "Magic Meter": 770
+                        },
+                        {
+                            "Megaton Hammer": 399
+                        },
+                        {
+                            "Mirror Shield": 355
+                        },
+                        {
+                            "Progressive Hookshot": 796
+                        },
+                        {
+                            "Progressive Scale": 711
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1222
+                        },
+                        {
+                            "Progressive Wallet": 719
+                        },
+                        {
+                            "Rutos Letter": 458
+                        },
+                        {
+                            "Slingshot": 1031
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Deku Tree": [
+                {
+                    "nbItems": 12633
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1022
+                        },
+                        {
+                            "Boomerang": 381
+                        },
+                        {
+                            "Bottle": 96
+                        },
+                        {
+                            "Bottle with Big Poe": 92
+                        },
+                        {
+                            "Bottle with Blue Fire": 112
+                        },
+                        {
+                            "Bottle with Blue Potion": 104
+                        },
+                        {
+                            "Bottle with Bugs": 102
+                        },
+                        {
+                            "Bottle with Fairy": 107
+                        },
+                        {
+                            "Bottle with Fish": 100
+                        },
+                        {
+                            "Bottle with Green Potion": 86
+                        },
+                        {
+                            "Bottle with Milk": 85
+                        },
+                        {
+                            "Bottle with Poe": 84
+                        },
+                        {
+                            "Bottle with Red Potion": 86
+                        },
+                        {
+                            "Bow": 1048
+                        },
+                        {
+                            "Claim Check": 96
+                        },
+                        {
+                            "Dins Fire": 392
+                        },
+                        {
+                            "Fire Arrows": 374
+                        },
+                        {
+                            "Goron Tunic": 363
+                        },
+                        {
+                            "Hover Boots": 395
+                        },
+                        {
+                            "Iron Boots": 371
+                        },
+                        {
+                            "Lens of Truth": 395
+                        },
+                        {
+                            "Light Arrows": 360
+                        },
+                        {
+                            "Magic Meter": 745
+                        },
+                        {
+                            "Megaton Hammer": 405
+                        },
+                        {
+                            "Mirror Shield": 346
+                        },
+                        {
+                            "Progressive Hookshot": 851
+                        },
+                        {
+                            "Progressive Scale": 732
+                        },
+                        {
+                            "Progressive Strength Upgrade": 1172
+                        },
+                        {
+                            "Progressive Wallet": 690
+                        },
+                        {
+                            "Rutos Letter": 405
+                        },
+                        {
+                            "Slingshot": 1036
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "KF": [
+                {
+                    "nbItems": 11421
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 1008
+                        },
+                        {
+                            "Boomerang": 388
+                        },
+                        {
+                            "Bottle": 80
+                        },
+                        {
+                            "Bottle with Big Poe": 109
+                        },
+                        {
+                            "Bottle with Blue Fire": 86
+                        },
+                        {
+                            "Bottle with Blue Potion": 101
+                        },
+                        {
+                            "Bottle with Bugs": 84
+                        },
+                        {
+                            "Bottle with Fairy": 94
+                        },
+                        {
+                            "Bottle with Fish": 73
+                        },
+                        {
+                            "Bottle with Green Potion": 84
+                        },
+                        {
+                            "Bottle with Milk": 71
+                        },
+                        {
+                            "Bottle with Poe": 74
+                        },
+                        {
+                            "Bottle with Red Potion": 82
+                        },
+                        {
+                            "Bow": 931
+                        },
+                        {
+                            "Claim Check": 76
+                        },
+                        {
+                            "Dins Fire": 377
+                        },
+                        {
+                            "Fire Arrows": 285
+                        },
+                        {
+                            "Goron Tunic": 309
+                        },
+                        {
+                            "Hover Boots": 414
+                        },
+                        {
+                            "Iron Boots": 376
+                        },
+                        {
+                            "Lens of Truth": 360
+                        },
+                        {
+                            "Light Arrows": 286
+                        },
+                        {
+                            "Magic Meter": 649
+                        },
+                        {
+                            "Megaton Hammer": 361
+                        },
+                        {
+                            "Mirror Shield": 339
+                        },
+                        {
+                            "Progressive Hookshot": 798
+                        },
+                        {
+                            "Progressive Scale": 618
+                        },
+                        {
+                            "Progressive Strength Upgrade": 984
+                        },
+                        {
+                            "Progressive Wallet": 629
+                        },
+                        {
+                            "Rutos Letter": 384
+                        },
+                        {
+                            "Slingshot": 911
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Market": [
+                {
+                    "nbItems": 11020
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 931
+                        },
+                        {
+                            "Boomerang": 304
+                        },
+                        {
+                            "Bottle": 91
+                        },
+                        {
+                            "Bottle with Big Poe": 87
+                        },
+                        {
+                            "Bottle with Blue Fire": 88
+                        },
+                        {
+                            "Bottle with Blue Potion": 73
+                        },
+                        {
+                            "Bottle with Bugs": 90
+                        },
+                        {
+                            "Bottle with Fairy": 74
+                        },
+                        {
+                            "Bottle with Fish": 85
+                        },
+                        {
+                            "Bottle with Green Potion": 91
+                        },
+                        {
+                            "Bottle with Milk": 102
+                        },
+                        {
+                            "Bottle with Poe": 80
+                        },
+                        {
+                            "Bottle with Red Potion": 68
+                        },
+                        {
+                            "Bow": 962
+                        },
+                        {
+                            "Claim Check": 86
+                        },
+                        {
+                            "Dins Fire": 343
+                        },
+                        {
+                            "Fire Arrows": 308
+                        },
+                        {
+                            "Goron Tunic": 295
+                        },
+                        {
+                            "Hover Boots": 371
+                        },
+                        {
+                            "Iron Boots": 310
+                        },
+                        {
+                            "Lens of Truth": 252
+                        },
+                        {
+                            "Light Arrows": 307
+                        },
+                        {
+                            "Magic Meter": 597
+                        },
+                        {
+                            "Megaton Hammer": 396
+                        },
+                        {
+                            "Mirror Shield": 340
+                        },
+                        {
+                            "Progressive Hookshot": 745
+                        },
+                        {
+                            "Progressive Scale": 673
+                        },
+                        {
+                            "Progressive Strength Upgrade": 967
+                        },
+                        {
+                            "Progressive Wallet": 591
+                        },
+                        {
+                            "Rutos Letter": 408
+                        },
+                        {
+                            "Slingshot": 905
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "LH": [
+                {
+                    "nbItems": 10869
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 988
+                        },
+                        {
+                            "Boomerang": 341
+                        },
+                        {
+                            "Bottle": 91
+                        },
+                        {
+                            "Bottle with Big Poe": 84
+                        },
+                        {
+                            "Bottle with Blue Fire": 85
+                        },
+                        {
+                            "Bottle with Blue Potion": 89
+                        },
+                        {
+                            "Bottle with Bugs": 82
+                        },
+                        {
+                            "Bottle with Fairy": 78
+                        },
+                        {
+                            "Bottle with Fish": 91
+                        },
+                        {
+                            "Bottle with Green Potion": 74
+                        },
+                        {
+                            "Bottle with Milk": 90
+                        },
+                        {
+                            "Bottle with Poe": 86
+                        },
+                        {
+                            "Bottle with Red Potion": 86
+                        },
+                        {
+                            "Bow": 921
+                        },
+                        {
+                            "Claim Check": 63
+                        },
+                        {
+                            "Dins Fire": 394
+                        },
+                        {
+                            "Fire Arrows": 311
+                        },
+                        {
+                            "Goron Tunic": 321
+                        },
+                        {
+                            "Hover Boots": 359
+                        },
+                        {
+                            "Iron Boots": 329
+                        },
+                        {
+                            "Lens of Truth": 309
+                        },
+                        {
+                            "Light Arrows": 298
+                        },
+                        {
+                            "Magic Meter": 614
+                        },
+                        {
+                            "Megaton Hammer": 346
+                        },
+                        {
+                            "Mirror Shield": 353
+                        },
+                        {
+                            "Progressive Hookshot": 598
+                        },
+                        {
+                            "Progressive Scale": 511
+                        },
+                        {
+                            "Progressive Strength Upgrade": 997
+                        },
+                        {
+                            "Progressive Wallet": 591
+                        },
+                        {
+                            "Rutos Letter": 368
+                        },
+                        {
+                            "Slingshot": 921
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Fire Temple": [
+                {
+                    "nbItems": 10654
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 910
+                        },
+                        {
+                            "Boomerang": 348
+                        },
+                        {
+                            "Bottle": 81
+                        },
+                        {
+                            "Bottle with Big Poe": 88
+                        },
+                        {
+                            "Bottle with Blue Fire": 85
+                        },
+                        {
+                            "Bottle with Blue Potion": 80
+                        },
+                        {
+                            "Bottle with Bugs": 86
+                        },
+                        {
+                            "Bottle with Fairy": 80
+                        },
+                        {
+                            "Bottle with Fish": 75
+                        },
+                        {
+                            "Bottle with Green Potion": 103
+                        },
+                        {
+                            "Bottle with Milk": 90
+                        },
+                        {
+                            "Bottle with Poe": 97
+                        },
+                        {
+                            "Bottle with Red Potion": 85
+                        },
+                        {
+                            "Bow": 956
+                        },
+                        {
+                            "Claim Check": 66
+                        },
+                        {
+                            "Dins Fire": 360
+                        },
+                        {
+                            "Fire Arrows": 326
+                        },
+                        {
+                            "Goron Tunic": 330
+                        },
+                        {
+                            "Hover Boots": 279
+                        },
+                        {
+                            "Iron Boots": 328
+                        },
+                        {
+                            "Lens of Truth": 324
+                        },
+                        {
+                            "Light Arrows": 291
+                        },
+                        {
+                            "Magic Meter": 630
+                        },
+                        {
+                            "Megaton Hammer": 70
+                        },
+                        {
+                            "Mirror Shield": 335
+                        },
+                        {
+                            "Progressive Hookshot": 680
+                        },
+                        {
+                            "Progressive Scale": 634
+                        },
+                        {
+                            "Progressive Strength Upgrade": 980
+                        },
+                        {
+                            "Progressive Wallet": 595
+                        },
+                        {
+                            "Rutos Letter": 362
+                        },
+                        {
+                            "Slingshot": 900
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "HF": [
+                {
+                    "nbItems": 9381
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 749
+                        },
+                        {
+                            "Boomerang": 288
+                        },
+                        {
+                            "Bottle": 72
+                        },
+                        {
+                            "Bottle with Big Poe": 67
+                        },
+                        {
+                            "Bottle with Blue Fire": 65
+                        },
+                        {
+                            "Bottle with Blue Potion": 59
+                        },
+                        {
+                            "Bottle with Bugs": 61
+                        },
+                        {
+                            "Bottle with Fairy": 64
+                        },
+                        {
+                            "Bottle with Fish": 66
+                        },
+                        {
+                            "Bottle with Green Potion": 64
+                        },
+                        {
+                            "Bottle with Milk": 61
+                        },
+                        {
+                            "Bottle with Poe": 66
+                        },
+                        {
+                            "Bottle with Red Potion": 62
+                        },
+                        {
+                            "Bow": 783
+                        },
+                        {
+                            "Claim Check": 79
+                        },
+                        {
+                            "Dins Fire": 302
+                        },
+                        {
+                            "Fire Arrows": 251
+                        },
+                        {
+                            "Goron Tunic": 274
+                        },
+                        {
+                            "Hover Boots": 335
+                        },
+                        {
+                            "Iron Boots": 302
+                        },
+                        {
+                            "Lens of Truth": 281
+                        },
+                        {
+                            "Light Arrows": 251
+                        },
+                        {
+                            "Magic Meter": 568
+                        },
+                        {
+                            "Megaton Hammer": 291
+                        },
+                        {
+                            "Mirror Shield": 302
+                        },
+                        {
+                            "Progressive Hookshot": 602
+                        },
+                        {
+                            "Progressive Scale": 575
+                        },
+                        {
+                            "Progressive Strength Upgrade": 847
+                        },
+                        {
+                            "Progressive Wallet": 533
+                        },
+                        {
+                            "Rutos Letter": 325
+                        },
+                        {
+                            "Slingshot": 736
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "DMT": [
+                {
+                    "nbItems": 9006
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 762
+                        },
+                        {
+                            "Boomerang": 259
+                        },
+                        {
+                            "Bottle": 65
+                        },
+                        {
+                            "Bottle with Big Poe": 65
+                        },
+                        {
+                            "Bottle with Blue Fire": 70
+                        },
+                        {
+                            "Bottle with Blue Potion": 89
+                        },
+                        {
+                            "Bottle with Bugs": 75
+                        },
+                        {
+                            "Bottle with Fairy": 79
+                        },
+                        {
+                            "Bottle with Fish": 71
+                        },
+                        {
+                            "Bottle with Green Potion": 78
+                        },
+                        {
+                            "Bottle with Milk": 70
+                        },
+                        {
+                            "Bottle with Poe": 64
+                        },
+                        {
+                            "Bottle with Red Potion": 72
+                        },
+                        {
+                            "Bow": 759
+                        },
+                        {
+                            "Claim Check": 47
+                        },
+                        {
+                            "Dins Fire": 286
+                        },
+                        {
+                            "Fire Arrows": 245
+                        },
+                        {
+                            "Goron Tunic": 230
+                        },
+                        {
+                            "Hover Boots": 285
+                        },
+                        {
+                            "Iron Boots": 299
+                        },
+                        {
+                            "Lens of Truth": 242
+                        },
+                        {
+                            "Light Arrows": 258
+                        },
+                        {
+                            "Magic Meter": 480
+                        },
+                        {
+                            "Megaton Hammer": 283
+                        },
+                        {
+                            "Mirror Shield": 286
+                        },
+                        {
+                            "Progressive Hookshot": 575
+                        },
+                        {
+                            "Progressive Scale": 507
+                        },
+                        {
+                            "Progressive Strength Upgrade": 836
+                        },
+                        {
+                            "Progressive Wallet": 509
+                        },
+                        {
+                            "Rutos Letter": 280
+                        },
+                        {
+                            "Slingshot": 780
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ZR": [
+                {
+                    "nbItems": 8997
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 794
+                        },
+                        {
+                            "Boomerang": 241
+                        },
+                        {
+                            "Bottle": 66
+                        },
+                        {
+                            "Bottle with Big Poe": 74
+                        },
+                        {
+                            "Bottle with Blue Fire": 64
+                        },
+                        {
+                            "Bottle with Blue Potion": 66
+                        },
+                        {
+                            "Bottle with Bugs": 72
+                        },
+                        {
+                            "Bottle with Fairy": 75
+                        },
+                        {
+                            "Bottle with Fish": 63
+                        },
+                        {
+                            "Bottle with Green Potion": 85
+                        },
+                        {
+                            "Bottle with Milk": 63
+                        },
+                        {
+                            "Bottle with Poe": 70
+                        },
+                        {
+                            "Bottle with Red Potion": 72
+                        },
+                        {
+                            "Bow": 750
+                        },
+                        {
+                            "Claim Check": 67
+                        },
+                        {
+                            "Dins Fire": 286
+                        },
+                        {
+                            "Fire Arrows": 267
+                        },
+                        {
+                            "Goron Tunic": 257
+                        },
+                        {
+                            "Hover Boots": 251
+                        },
+                        {
+                            "Iron Boots": 271
+                        },
+                        {
+                            "Lens of Truth": 272
+                        },
+                        {
+                            "Light Arrows": 248
+                        },
+                        {
+                            "Magic Meter": 549
+                        },
+                        {
+                            "Megaton Hammer": 255
+                        },
+                        {
+                            "Mirror Shield": 237
+                        },
+                        {
+                            "Progressive Hookshot": 557
+                        },
+                        {
+                            "Progressive Scale": 541
+                        },
+                        {
+                            "Progressive Strength Upgrade": 813
+                        },
+                        {
+                            "Progressive Wallet": 528
+                        },
+                        {
+                            "Rutos Letter": 276
+                        },
+                        {
+                            "Slingshot": 767
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "DMC": [
+                {
+                    "nbItems": 7367
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 603
+                        },
+                        {
+                            "Boomerang": 239
+                        },
+                        {
+                            "Bottle": 54
+                        },
+                        {
+                            "Bottle with Big Poe": 67
+                        },
+                        {
+                            "Bottle with Blue Fire": 47
+                        },
+                        {
+                            "Bottle with Blue Potion": 47
+                        },
+                        {
+                            "Bottle with Bugs": 48
+                        },
+                        {
+                            "Bottle with Fairy": 57
+                        },
+                        {
+                            "Bottle with Fish": 57
+                        },
+                        {
+                            "Bottle with Green Potion": 44
+                        },
+                        {
+                            "Bottle with Milk": 78
+                        },
+                        {
+                            "Bottle with Poe": 53
+                        },
+                        {
+                            "Bottle with Red Potion": 51
+                        },
+                        {
+                            "Bow": 660
+                        },
+                        {
+                            "Claim Check": 41
+                        },
+                        {
+                            "Dins Fire": 231
+                        },
+                        {
+                            "Fire Arrows": 183
+                        },
+                        {
+                            "Goron Tunic": 203
+                        },
+                        {
+                            "Hover Boots": 255
+                        },
+                        {
+                            "Iron Boots": 244
+                        },
+                        {
+                            "Lens of Truth": 223
+                        },
+                        {
+                            "Light Arrows": 196
+                        },
+                        {
+                            "Magic Meter": 407
+                        },
+                        {
+                            "Megaton Hammer": 174
+                        },
+                        {
+                            "Mirror Shield": 227
+                        },
+                        {
+                            "Progressive Hookshot": 508
+                        },
+                        {
+                            "Progressive Scale": 438
+                        },
+                        {
+                            "Progressive Strength Upgrade": 664
+                        },
+                        {
+                            "Progressive Wallet": 398
+                        },
+                        {
+                            "Rutos Letter": 249
+                        },
+                        {
+                            "Slingshot": 621
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Ice Cavern": [
+                {
+                    "nbItems": 6844
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 609
+                        },
+                        {
+                            "Boomerang": 219
+                        },
+                        {
+                            "Bottle": 58
+                        },
+                        {
+                            "Bottle with Big Poe": 52
+                        },
+                        {
+                            "Bottle with Blue Fire": 63
+                        },
+                        {
+                            "Bottle with Blue Potion": 69
+                        },
+                        {
+                            "Bottle with Bugs": 55
+                        },
+                        {
+                            "Bottle with Fairy": 51
+                        },
+                        {
+                            "Bottle with Fish": 58
+                        },
+                        {
+                            "Bottle with Green Potion": 49
+                        },
+                        {
+                            "Bottle with Milk": 54
+                        },
+                        {
+                            "Bottle with Poe": 53
+                        },
+                        {
+                            "Bottle with Red Potion": 69
+                        },
+                        {
+                            "Bow": 587
+                        },
+                        {
+                            "Claim Check": 49
+                        },
+                        {
+                            "Dins Fire": 208
+                        },
+                        {
+                            "Fire Arrows": 189
+                        },
+                        {
+                            "Goron Tunic": 203
+                        },
+                        {
+                            "Hover Boots": 202
+                        },
+                        {
+                            "Iron Boots": 233
+                        },
+                        {
+                            "Lens of Truth": 187
+                        },
+                        {
+                            "Light Arrows": 202
+                        },
+                        {
+                            "Magic Meter": 402
+                        },
+                        {
+                            "Megaton Hammer": 201
+                        },
+                        {
+                            "Mirror Shield": 220
+                        },
+                        {
+                            "Progressive Hookshot": 443
+                        },
+                        {
+                            "Progressive Scale": 399
+                        },
+                        {
+                            "Progressive Strength Upgrade": 622
+                        },
+                        {
+                            "Progressive Wallet": 446
+                        },
+                        {
+                            "Rutos Letter": 0
+                        },
+                        {
+                            "Slingshot": 592
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Jabu Jabus Belly": [
+                {
+                    "nbItems": 6700
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 608
+                        },
+                        {
+                            "Boomerang": 45
+                        },
+                        {
+                            "Bottle": 55
+                        },
+                        {
+                            "Bottle with Big Poe": 48
+                        },
+                        {
+                            "Bottle with Blue Fire": 61
+                        },
+                        {
+                            "Bottle with Blue Potion": 65
+                        },
+                        {
+                            "Bottle with Bugs": 56
+                        },
+                        {
+                            "Bottle with Fairy": 68
+                        },
+                        {
+                            "Bottle with Fish": 54
+                        },
+                        {
+                            "Bottle with Green Potion": 55
+                        },
+                        {
+                            "Bottle with Milk": 44
+                        },
+                        {
+                            "Bottle with Poe": 49
+                        },
+                        {
+                            "Bottle with Red Potion": 48
+                        },
+                        {
+                            "Bow": 626
+                        },
+                        {
+                            "Claim Check": 49
+                        },
+                        {
+                            "Dins Fire": 225
+                        },
+                        {
+                            "Fire Arrows": 188
+                        },
+                        {
+                            "Goron Tunic": 217
+                        },
+                        {
+                            "Hover Boots": 235
+                        },
+                        {
+                            "Iron Boots": 236
+                        },
+                        {
+                            "Lens of Truth": 187
+                        },
+                        {
+                            "Light Arrows": 206
+                        },
+                        {
+                            "Magic Meter": 424
+                        },
+                        {
+                            "Megaton Hammer": 215
+                        },
+                        {
+                            "Mirror Shield": 185
+                        },
+                        {
+                            "Progressive Hookshot": 395
+                        },
+                        {
+                            "Progressive Scale": 407
+                        },
+                        {
+                            "Progressive Strength Upgrade": 609
+                        },
+                        {
+                            "Progressive Wallet": 387
+                        },
+                        {
+                            "Rutos Letter": 0
+                        },
+                        {
+                            "Slingshot": 653
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Water Temple": [
+                {
+                    "nbItems": 6505
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 634
+                        },
+                        {
+                            "Boomerang": 200
+                        },
+                        {
+                            "Bottle": 51
+                        },
+                        {
+                            "Bottle with Big Poe": 52
+                        },
+                        {
+                            "Bottle with Blue Fire": 47
+                        },
+                        {
+                            "Bottle with Blue Potion": 54
+                        },
+                        {
+                            "Bottle with Bugs": 64
+                        },
+                        {
+                            "Bottle with Fairy": 55
+                        },
+                        {
+                            "Bottle with Fish": 50
+                        },
+                        {
+                            "Bottle with Green Potion": 62
+                        },
+                        {
+                            "Bottle with Milk": 49
+                        },
+                        {
+                            "Bottle with Poe": 47
+                        },
+                        {
+                            "Bottle with Red Potion": 67
+                        },
+                        {
+                            "Bow": 620
+                        },
+                        {
+                            "Claim Check": 52
+                        },
+                        {
+                            "Dins Fire": 193
+                        },
+                        {
+                            "Fire Arrows": 196
+                        },
+                        {
+                            "Goron Tunic": 224
+                        },
+                        {
+                            "Hover Boots": 195
+                        },
+                        {
+                            "Iron Boots": 0
+                        },
+                        {
+                            "Lens of Truth": 225
+                        },
+                        {
+                            "Light Arrows": 204
+                        },
+                        {
+                            "Magic Meter": 377
+                        },
+                        {
+                            "Megaton Hammer": 189
+                        },
+                        {
+                            "Mirror Shield": 223
+                        },
+                        {
+                            "Progressive Hookshot": 222
+                        },
+                        {
+                            "Progressive Scale": 412
+                        },
+                        {
+                            "Progressive Strength Upgrade": 566
+                        },
+                        {
+                            "Progressive Wallet": 384
+                        },
+                        {
+                            "Rutos Letter": 190
+                        },
+                        {
+                            "Slingshot": 601
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "GV": [
+                {
+                    "nbItems": 5640
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 514
+                        },
+                        {
+                            "Boomerang": 153
+                        },
+                        {
+                            "Bottle": 35
+                        },
+                        {
+                            "Bottle with Big Poe": 48
+                        },
+                        {
+                            "Bottle with Blue Fire": 46
+                        },
+                        {
+                            "Bottle with Blue Potion": 42
+                        },
+                        {
+                            "Bottle with Bugs": 38
+                        },
+                        {
+                            "Bottle with Fairy": 42
+                        },
+                        {
+                            "Bottle with Fish": 36
+                        },
+                        {
+                            "Bottle with Green Potion": 42
+                        },
+                        {
+                            "Bottle with Milk": 43
+                        },
+                        {
+                            "Bottle with Poe": 32
+                        },
+                        {
+                            "Bottle with Red Potion": 49
+                        },
+                        {
+                            "Bow": 522
+                        },
+                        {
+                            "Claim Check": 36
+                        },
+                        {
+                            "Dins Fire": 173
+                        },
+                        {
+                            "Fire Arrows": 146
+                        },
+                        {
+                            "Goron Tunic": 170
+                        },
+                        {
+                            "Hover Boots": 164
+                        },
+                        {
+                            "Iron Boots": 166
+                        },
+                        {
+                            "Lens of Truth": 150
+                        },
+                        {
+                            "Light Arrows": 138
+                        },
+                        {
+                            "Magic Meter": 343
+                        },
+                        {
+                            "Megaton Hammer": 121
+                        },
+                        {
+                            "Mirror Shield": 169
+                        },
+                        {
+                            "Progressive Hookshot": 389
+                        },
+                        {
+                            "Progressive Scale": 321
+                        },
+                        {
+                            "Progressive Strength Upgrade": 479
+                        },
+                        {
+                            "Progressive Wallet": 315
+                        },
+                        {
+                            "Rutos Letter": 215
+                        },
+                        {
+                            "Slingshot": 503
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ZD": [
+                {
+                    "nbItems": 5562
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 453
+                        },
+                        {
+                            "Boomerang": 183
+                        },
+                        {
+                            "Bottle": 40
+                        },
+                        {
+                            "Bottle with Big Poe": 43
+                        },
+                        {
+                            "Bottle with Blue Fire": 47
+                        },
+                        {
+                            "Bottle with Blue Potion": 37
+                        },
+                        {
+                            "Bottle with Bugs": 47
+                        },
+                        {
+                            "Bottle with Fairy": 34
+                        },
+                        {
+                            "Bottle with Fish": 49
+                        },
+                        {
+                            "Bottle with Green Potion": 40
+                        },
+                        {
+                            "Bottle with Milk": 29
+                        },
+                        {
+                            "Bottle with Poe": 37
+                        },
+                        {
+                            "Bottle with Red Potion": 45
+                        },
+                        {
+                            "Bow": 467
+                        },
+                        {
+                            "Claim Check": 35
+                        },
+                        {
+                            "Dins Fire": 175
+                        },
+                        {
+                            "Fire Arrows": 153
+                        },
+                        {
+                            "Goron Tunic": 153
+                        },
+                        {
+                            "Hover Boots": 197
+                        },
+                        {
+                            "Iron Boots": 175
+                        },
+                        {
+                            "Lens of Truth": 153
+                        },
+                        {
+                            "Light Arrows": 137
+                        },
+                        {
+                            "Magic Meter": 327
+                        },
+                        {
+                            "Megaton Hammer": 175
+                        },
+                        {
+                            "Mirror Shield": 166
+                        },
+                        {
+                            "Progressive Hookshot": 413
+                        },
+                        {
+                            "Progressive Scale": 308
+                        },
+                        {
+                            "Progressive Strength Upgrade": 473
+                        },
+                        {
+                            "Progressive Wallet": 290
+                        },
+                        {
+                            "Rutos Letter": 205
+                        },
+                        {
+                            "Slingshot": 476
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "GF": [
+                {
+                    "nbItems": 5343
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 457
+                        },
+                        {
+                            "Boomerang": 156
+                        },
+                        {
+                            "Bottle": 45
+                        },
+                        {
+                            "Bottle with Big Poe": 50
+                        },
+                        {
+                            "Bottle with Blue Fire": 47
+                        },
+                        {
+                            "Bottle with Blue Potion": 42
+                        },
+                        {
+                            "Bottle with Bugs": 51
+                        },
+                        {
+                            "Bottle with Fairy": 49
+                        },
+                        {
+                            "Bottle with Fish": 45
+                        },
+                        {
+                            "Bottle with Green Potion": 51
+                        },
+                        {
+                            "Bottle with Milk": 36
+                        },
+                        {
+                            "Bottle with Poe": 50
+                        },
+                        {
+                            "Bottle with Red Potion": 42
+                        },
+                        {
+                            "Bow": 472
+                        },
+                        {
+                            "Claim Check": 43
+                        },
+                        {
+                            "Dins Fire": 169
+                        },
+                        {
+                            "Fire Arrows": 141
+                        },
+                        {
+                            "Goron Tunic": 141
+                        },
+                        {
+                            "Hover Boots": 165
+                        },
+                        {
+                            "Iron Boots": 160
+                        },
+                        {
+                            "Lens of Truth": 159
+                        },
+                        {
+                            "Light Arrows": 135
+                        },
+                        {
+                            "Magic Meter": 316
+                        },
+                        {
+                            "Megaton Hammer": 161
+                        },
+                        {
+                            "Mirror Shield": 171
+                        },
+                        {
+                            "Progressive Hookshot": 258
+                        },
+                        {
+                            "Progressive Scale": 285
+                        },
+                        {
+                            "Progressive Strength Upgrade": 509
+                        },
+                        {
+                            "Progressive Wallet": 327
+                        },
+                        {
+                            "Rutos Letter": 177
+                        },
+                        {
+                            "Slingshot": 433
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ZF": [
+                {
+                    "nbItems": 5026
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 418
+                        },
+                        {
+                            "Boomerang": 170
+                        },
+                        {
+                            "Bottle": 38
+                        },
+                        {
+                            "Bottle with Big Poe": 48
+                        },
+                        {
+                            "Bottle with Blue Fire": 49
+                        },
+                        {
+                            "Bottle with Blue Potion": 43
+                        },
+                        {
+                            "Bottle with Bugs": 35
+                        },
+                        {
+                            "Bottle with Fairy": 42
+                        },
+                        {
+                            "Bottle with Fish": 41
+                        },
+                        {
+                            "Bottle with Green Potion": 34
+                        },
+                        {
+                            "Bottle with Milk": 35
+                        },
+                        {
+                            "Bottle with Poe": 38
+                        },
+                        {
+                            "Bottle with Red Potion": 34
+                        },
+                        {
+                            "Bow": 475
+                        },
+                        {
+                            "Claim Check": 33
+                        },
+                        {
+                            "Dins Fire": 168
+                        },
+                        {
+                            "Fire Arrows": 158
+                        },
+                        {
+                            "Goron Tunic": 138
+                        },
+                        {
+                            "Hover Boots": 168
+                        },
+                        {
+                            "Iron Boots": 93
+                        },
+                        {
+                            "Lens of Truth": 153
+                        },
+                        {
+                            "Light Arrows": 161
+                        },
+                        {
+                            "Magic Meter": 314
+                        },
+                        {
+                            "Megaton Hammer": 152
+                        },
+                        {
+                            "Mirror Shield": 141
+                        },
+                        {
+                            "Progressive Hookshot": 287
+                        },
+                        {
+                            "Progressive Scale": 292
+                        },
+                        {
+                            "Progressive Strength Upgrade": 496
+                        },
+                        {
+                            "Progressive Wallet": 296
+                        },
+                        {
+                            "Rutos Letter": 0
+                        },
+                        {
+                            "Slingshot": 476
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "LLR": [
+                {
+                    "nbItems": 3772
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 314
+                        },
+                        {
+                            "Boomerang": 85
+                        },
+                        {
+                            "Bottle": 23
+                        },
+                        {
+                            "Bottle with Big Poe": 29
+                        },
+                        {
+                            "Bottle with Blue Fire": 26
+                        },
+                        {
+                            "Bottle with Blue Potion": 26
+                        },
+                        {
+                            "Bottle with Bugs": 28
+                        },
+                        {
+                            "Bottle with Fairy": 20
+                        },
+                        {
+                            "Bottle with Fish": 34
+                        },
+                        {
+                            "Bottle with Green Potion": 30
+                        },
+                        {
+                            "Bottle with Milk": 25
+                        },
+                        {
+                            "Bottle with Poe": 27
+                        },
+                        {
+                            "Bottle with Red Potion": 24
+                        },
+                        {
+                            "Bow": 328
+                        },
+                        {
+                            "Claim Check": 27
+                        },
+                        {
+                            "Dins Fire": 134
+                        },
+                        {
+                            "Fire Arrows": 95
+                        },
+                        {
+                            "Goron Tunic": 104
+                        },
+                        {
+                            "Hover Boots": 129
+                        },
+                        {
+                            "Iron Boots": 112
+                        },
+                        {
+                            "Lens of Truth": 98
+                        },
+                        {
+                            "Light Arrows": 93
+                        },
+                        {
+                            "Magic Meter": 214
+                        },
+                        {
+                            "Megaton Hammer": 128
+                        },
+                        {
+                            "Mirror Shield": 130
+                        },
+                        {
+                            "Progressive Hookshot": 261
+                        },
+                        {
+                            "Progressive Scale": 213
+                        },
+                        {
+                            "Progressive Strength Upgrade": 352
+                        },
+                        {
+                            "Progressive Wallet": 214
+                        },
+                        {
+                            "Rutos Letter": 145
+                        },
+                        {
+                            "Slingshot": 304
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "SFM": [
+                {
+                    "nbItems": 1902
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 163
+                        },
+                        {
+                            "Boomerang": 67
+                        },
+                        {
+                            "Bottle": 15
+                        },
+                        {
+                            "Bottle with Big Poe": 14
+                        },
+                        {
+                            "Bottle with Blue Fire": 19
+                        },
+                        {
+                            "Bottle with Blue Potion": 13
+                        },
+                        {
+                            "Bottle with Bugs": 15
+                        },
+                        {
+                            "Bottle with Fairy": 18
+                        },
+                        {
+                            "Bottle with Fish": 16
+                        },
+                        {
+                            "Bottle with Green Potion": 15
+                        },
+                        {
+                            "Bottle with Milk": 9
+                        },
+                        {
+                            "Bottle with Poe": 18
+                        },
+                        {
+                            "Bottle with Red Potion": 13
+                        },
+                        {
+                            "Bow": 157
+                        },
+                        {
+                            "Claim Check": 10
+                        },
+                        {
+                            "Dins Fire": 66
+                        },
+                        {
+                            "Fire Arrows": 40
+                        },
+                        {
+                            "Goron Tunic": 49
+                        },
+                        {
+                            "Hover Boots": 70
+                        },
+                        {
+                            "Iron Boots": 75
+                        },
+                        {
+                            "Lens of Truth": 51
+                        },
+                        {
+                            "Light Arrows": 53
+                        },
+                        {
+                            "Magic Meter": 109
+                        },
+                        {
+                            "Megaton Hammer": 58
+                        },
+                        {
+                            "Mirror Shield": 57
+                        },
+                        {
+                            "Progressive Hookshot": 125
+                        },
+                        {
+                            "Progressive Scale": 118
+                        },
+                        {
+                            "Progressive Strength Upgrade": 165
+                        },
+                        {
+                            "Progressive Wallet": 105
+                        },
+                        {
+                            "Rutos Letter": 48
+                        },
+                        {
+                            "Slingshot": 151
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "HC": [
+                {
+                    "nbItems": 1764
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 156
+                        },
+                        {
+                            "Boomerang": 53
+                        },
+                        {
+                            "Bottle": 20
+                        },
+                        {
+                            "Bottle with Big Poe": 13
+                        },
+                        {
+                            "Bottle with Blue Fire": 10
+                        },
+                        {
+                            "Bottle with Blue Potion": 15
+                        },
+                        {
+                            "Bottle with Bugs": 10
+                        },
+                        {
+                            "Bottle with Fairy": 16
+                        },
+                        {
+                            "Bottle with Fish": 14
+                        },
+                        {
+                            "Bottle with Green Potion": 8
+                        },
+                        {
+                            "Bottle with Milk": 14
+                        },
+                        {
+                            "Bottle with Poe": 15
+                        },
+                        {
+                            "Bottle with Red Potion": 19
+                        },
+                        {
+                            "Bow": 142
+                        },
+                        {
+                            "Claim Check": 13
+                        },
+                        {
+                            "Dins Fire": 50
+                        },
+                        {
+                            "Fire Arrows": 47
+                        },
+                        {
+                            "Goron Tunic": 37
+                        },
+                        {
+                            "Hover Boots": 54
+                        },
+                        {
+                            "Iron Boots": 62
+                        },
+                        {
+                            "Lens of Truth": 49
+                        },
+                        {
+                            "Light Arrows": 60
+                        },
+                        {
+                            "Magic Meter": 89
+                        },
+                        {
+                            "Megaton Hammer": 64
+                        },
+                        {
+                            "Mirror Shield": 53
+                        },
+                        {
+                            "Progressive Hookshot": 116
+                        },
+                        {
+                            "Progressive Scale": 88
+                        },
+                        {
+                            "Progressive Strength Upgrade": 149
+                        },
+                        {
+                            "Progressive Wallet": 110
+                        },
+                        {
+                            "Rutos Letter": 53
+                        },
+                        {
+                            "Slingshot": 165
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Wasteland": [
+                {
+                    "nbItems": 1737
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 146
+                        },
+                        {
+                            "Boomerang": 62
+                        },
+                        {
+                            "Bottle": 12
+                        },
+                        {
+                            "Bottle with Big Poe": 13
+                        },
+                        {
+                            "Bottle with Blue Fire": 16
+                        },
+                        {
+                            "Bottle with Blue Potion": 18
+                        },
+                        {
+                            "Bottle with Bugs": 19
+                        },
+                        {
+                            "Bottle with Fairy": 11
+                        },
+                        {
+                            "Bottle with Fish": 11
+                        },
+                        {
+                            "Bottle with Green Potion": 16
+                        },
+                        {
+                            "Bottle with Milk": 11
+                        },
+                        {
+                            "Bottle with Poe": 8
+                        },
+                        {
+                            "Bottle with Red Potion": 17
+                        },
+                        {
+                            "Bow": 175
+                        },
+                        {
+                            "Claim Check": 16
+                        },
+                        {
+                            "Dins Fire": 53
+                        },
+                        {
+                            "Fire Arrows": 49
+                        },
+                        {
+                            "Goron Tunic": 47
+                        },
+                        {
+                            "Hover Boots": 43
+                        },
+                        {
+                            "Iron Boots": 59
+                        },
+                        {
+                            "Lens of Truth": 49
+                        },
+                        {
+                            "Light Arrows": 42
+                        },
+                        {
+                            "Magic Meter": 74
+                        },
+                        {
+                            "Megaton Hammer": 58
+                        },
+                        {
+                            "Mirror Shield": 61
+                        },
+                        {
+                            "Progressive Hookshot": 81
+                        },
+                        {
+                            "Progressive Scale": 98
+                        },
+                        {
+                            "Progressive Strength Upgrade": 155
+                        },
+                        {
+                            "Progressive Wallet": 101
+                        },
+                        {
+                            "Rutos Letter": 57
+                        },
+                        {
+                            "Slingshot": 159
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "ToT": [
+                {
+                    "nbItems": 1574
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 148
+                        },
+                        {
+                            "Boomerang": 34
+                        },
+                        {
+                            "Bottle": 13
+                        },
+                        {
+                            "Bottle with Big Poe": 12
+                        },
+                        {
+                            "Bottle with Blue Fire": 20
+                        },
+                        {
+                            "Bottle with Blue Potion": 10
+                        },
+                        {
+                            "Bottle with Bugs": 12
+                        },
+                        {
+                            "Bottle with Fairy": 15
+                        },
+                        {
+                            "Bottle with Fish": 13
+                        },
+                        {
+                            "Bottle with Green Potion": 16
+                        },
+                        {
+                            "Bottle with Milk": 15
+                        },
+                        {
+                            "Bottle with Poe": 11
+                        },
+                        {
+                            "Bottle with Red Potion": 13
+                        },
+                        {
+                            "Bow": 143
+                        },
+                        {
+                            "Claim Check": 12
+                        },
+                        {
+                            "Dins Fire": 35
+                        },
+                        {
+                            "Fire Arrows": 45
+                        },
+                        {
+                            "Goron Tunic": 65
+                        },
+                        {
+                            "Hover Boots": 31
+                        },
+                        {
+                            "Iron Boots": 37
+                        },
+                        {
+                            "Lens of Truth": 53
+                        },
+                        {
+                            "Light Arrows": 51
+                        },
+                        {
+                            "Magic Meter": 79
+                        },
+                        {
+                            "Megaton Hammer": 26
+                        },
+                        {
+                            "Mirror Shield": 39
+                        },
+                        {
+                            "Progressive Hookshot": 76
+                        },
+                        {
+                            "Progressive Scale": 99
+                        },
+                        {
+                            "Progressive Strength Upgrade": 155
+                        },
+                        {
+                            "Progressive Wallet": 101
+                        },
+                        {
+                            "Rutos Letter": 33
+                        },
+                        {
+                            "Slingshot": 162
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "OGC": [
+                {
+                    "nbItems": 1556
+                },
+                {
+                    "items": [
+                        {
+                            "Bomb Bag": 139
+                        },
+                        {
+                            "Boomerang": 40
+                        },
+                        {
+                            "Bottle": 16
+                        },
+                        {
+                            "Bottle with Big Poe": 23
+                        },
+                        {
+                            "Bottle with Blue Fire": 13
+                        },
+                        {
+                            "Bottle with Blue Potion": 9
+                        },
+                        {
+                            "Bottle with Bugs": 9
+                        },
+                        {
+                            "Bottle with Fairy": 16
+                        },
+                        {
+                            "Bottle with Fish": 9
+                        },
+                        {
+                            "Bottle with Green Potion": 18
+                        },
+                        {
+                            "Bottle with Milk": 13
+                        },
+                        {
+                            "Bottle with Poe": 15
+                        },
+                        {
+                            "Bottle with Red Potion": 16
+                        },
+                        {
+                            "Bow": 138
+                        },
+                        {
+                            "Claim Check": 7
+                        },
+                        {
+                            "Dins Fire": 45
+                        },
+                        {
+                            "Fire Arrows": 68
+                        },
+                        {
+                            "Goron Tunic": 47
+                        },
+                        {
+                            "Hover Boots": 49
+                        },
+                        {
+                            "Iron Boots": 40
+                        },
+                        {
+                            "Lens of Truth": 50
+                        },
+                        {
+                            "Light Arrows": 59
+                        },
+                        {
+                            "Magic Meter": 109
+                        },
+                        {
+                            "Megaton Hammer": 59
+                        },
+                        {
+                            "Mirror Shield": 40
+                        },
+                        {
+                            "Progressive Hookshot": 103
+                        },
+                        {
+                            "Progressive Scale": 101
+                        },
+                        {
+                            "Progressive Strength Upgrade": 0
+                        },
+                        {
+                            "Progressive Wallet": 114
+                        },
+                        {
+                            "Rutos Letter": 41
+                        },
+                        {
+                            "Slingshot": 150
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
