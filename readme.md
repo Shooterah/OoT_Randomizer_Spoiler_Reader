@@ -20,20 +20,14 @@ git clone
 ```
 2. Install Python packages
 ```sh
-pip install -r requirements.txt
+pip install json
 ```
 
 ## Usage
-
-1. Run the program
+1. Put your Spoiler Logs in the folder Spoiler_logs
+2. Run the program
 ```sh
-python main.py
+python Spoiler_Log_Reader.py
 ```
-2. Enter the path to the spoiler log
-```sh
-Enter the path to the spoiler log: 
-```
-3. The program will output the items in a readable format
-```sh
-Enter the path to the spoiler log: spoiler_log.txt
-```
+3. Read the file locationsItems.json to see the place of items in the locations from all the spoiler logs
+4. Read the file zonesItems.json to see the place of items in the area from all the spoiler logs
